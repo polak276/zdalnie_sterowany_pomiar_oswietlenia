@@ -1,0 +1,7 @@
+#plik gitignore
+#bez katalogu Release i .settings w obu projektach
+pojazd/Release/
+pojazd/.settings/
+sterowanie/Release/
+sterowanie/.settings/
+
